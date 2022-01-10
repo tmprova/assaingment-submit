@@ -89,10 +89,29 @@ width: 40%;
 .third{
     display: flex;
     margin-left: 10%
-    margin-bottom: 100px
+    margin-bottom: 140px
 }
 .third{
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.fourth{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+footer{
+    margin-top: 150px;
+    background-color: black;
+    color: ivory;
+    text-align: center;
+}
+#end{
+    color: royalblue;
+}
+#last{
+    font-size: 10px;
+     
+    padding-bottom: 25px;
 }
