@@ -3,6 +3,9 @@
     font-size: 40px;
    
 }
+.clr{
+    color: brown;
+}
 p{
     font-size: 20px;
 }
@@ -27,7 +30,12 @@ p{
     border-radius: 5px;
 }
 #little-fotter{
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 400;
     margin-top: 5%;
+}
+h2{
+    text-align: center;
+    font-weight: 600;
+    color:tomato;
 }
