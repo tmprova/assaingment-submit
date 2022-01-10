@@ -1,6 +1,10 @@
 .headline{
     font-family: 'Chonburi', cursive;
-    font-size: 40px;
+    font-size: 48px;
+    border-left: 4px solid;
+    border-image: linear-gradient(brown,red);
+    border-image-slice: 1;
+
    
 }
 .clr{
@@ -46,11 +50,39 @@ width: 40%;
 
 }
 .mission{
-   width: 20%;
-   margin-left: 12%;
-   margin-right: 8%;
+   width: 50%;
+   margin-left: 5%;
+   margin-right: 5%;
    padding-left: 15px;
    border-radius: 10px;
   
    background-color: burlywood;
+}
+.vision img{
+width: 40%;
+}
+
+.vision{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 8%;
+    padding-left: 15px;
+    border-radius: 10px;
+    background-color: cadetblue;
+}
+.goal img{
+    width: 40%;
+}
+.goal{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 8%;
+    padding-left: 15px;
+    border-radius: 10px;
+    background-color: rgb(65, 87, 65);
+}
+.tryout{
+    
+    display: flex;
+    margin-bottom: 140px;
 }
