@@ -38,7 +38,7 @@ p{
     font-weight: 400;
     margin-top: 5%;
 }
-h2{
+#colr{
     text-align: center;
     font-weight: 600;
     color:tomato;
@@ -85,4 +85,14 @@ width: 40%;
     
     display: flex;
     margin-bottom: 140px;
+}
+.third{
+    display: flex;
+    margin-left: 10%
+    margin-bottom: 100px
+}
+.third{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
